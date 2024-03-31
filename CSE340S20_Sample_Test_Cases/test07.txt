@@ -1,0 +1,8 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+S -> a A #
+S -> z B #
+A -> b B c B #
+B -> d A #
+##
